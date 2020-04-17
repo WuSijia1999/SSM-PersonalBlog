@@ -31,7 +31,7 @@
         </div>
     </div>
     <footer>
-        <p><span>Design By:<a href="www.duanliang920.com" target="_blank">xxx</a></span><span>网站地图</span><span><a href="/">网站统计</a></span></p>
+        <p><span>Design By:<a href="www.duanliang920.com" target="_blank">伍思佳</a></span><span>网站地图</span><span><a href="/">网站统计</a></span></p>
     </footer>
     <script src="js/nav.js"></script>
 </div>
